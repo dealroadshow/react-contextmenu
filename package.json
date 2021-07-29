@@ -84,10 +84,10 @@
     "jest": "~21.2.1",
     "jsdom": "~11.3.0",
     "prop-types": "~15.7.2",
-    "react": "~17.0.1",
-    "react-dom": "~17.0.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "react-router-dom": "~5.0.1",
-    "react-test-renderer": "~17.0.1",
+    "react-test-renderer": "^17.0.0",
     "rimraf": "~3.0.0",
     "style-loader": "~0.19.0",
     "webpack": "~3.12.0"
